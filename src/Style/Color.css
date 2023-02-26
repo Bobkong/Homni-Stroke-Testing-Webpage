@@ -1,0 +1,30 @@
+body {
+    --black: #000000;
+    --white: #fafafa;
+    --bg: #f1f1f1;
+    --primary1: #01BBD4;
+    --primary2: #3D618C;
+    --darkGrey: #555555;
+  
+    --background: var(--bg);
+  
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg);
+  }
+  
+.primary1-color {
+    color: var(--primary1);
+}
+  
+.primary2-color {
+    color: var(--primary2);
+}
+
+.white-color {
+    color: var(--white);
+}
+
+.black-color {
+    color: var(--black);
+}

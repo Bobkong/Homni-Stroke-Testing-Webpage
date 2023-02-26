@@ -1,0 +1,32 @@
+.small-button-div {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: var(--primary1);
+    border-radius: 0.6rem;
+    color: var(--black);
+    display: inline-block;
+}
+
+.medium-button-div {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 0.6rem;
+    background-color: var(--primary1);
+    color: var(--black);
+    display: inline-block;
+}
+
+.large-button-div {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    border-radius: 0.6rem;
+    background-color: var(--primary1);
+    color: var(--black);
+    display: inline-block;
+}

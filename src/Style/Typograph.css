@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap');
+@font-face{
+    font-family: 'arial-black';
+    src : url('../Assets/ariblk.ttf');
+}
+
+
+.title-m {
+    font-family: 'arial-black';
+    font-size: 1.5rem;
+}
+
+.title-s {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.title-xs {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.body-r {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.body-r-bold {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+}
